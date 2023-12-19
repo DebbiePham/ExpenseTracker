@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IFRAecatOranpPQFSUv+fgigNcyrEipTY9uSFYNggBWhX5Dunh5wccKWLlK2pFkCmUZdmobtREEWuX6sj9wHaw==",
+  "dgSpecHash": "xpM/cbwc2N5grsp3ZUZL+fmre5yX9t4bc1bZ14Lb4nkviXHGuwyE4R3lO/QJPpafD730xSC1kXQl0s0KyBebEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Debbie Pham\\Documents\\Coding Dojo\\C-sharp\\ExpenseTracker\\ExpenseTracker.csproj",
+  "projectFilePath": "C:\\Users\\Debbie Pham\\Documents\\Coding Dojo\\Projects\\ExpenseTracker\\ExpenseTracker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Debbie Pham\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Debbie Pham\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",

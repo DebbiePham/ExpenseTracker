@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Debbie Pham\\Documents\\Coding Dojo\\C-sharp\\ExpenseTracker\\ExpenseTracker.csproj": {}
+    "C:\\Users\\Debbie Pham\\Documents\\Coding Dojo\\Projects\\ExpenseTracker\\ExpenseTracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Debbie Pham\\Documents\\Coding Dojo\\C-sharp\\ExpenseTracker\\ExpenseTracker.csproj": {
+    "C:\\Users\\Debbie Pham\\Documents\\Coding Dojo\\Projects\\ExpenseTracker\\ExpenseTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Debbie Pham\\Documents\\Coding Dojo\\C-sharp\\ExpenseTracker\\ExpenseTracker.csproj",
+        "projectUniqueName": "C:\\Users\\Debbie Pham\\Documents\\Coding Dojo\\Projects\\ExpenseTracker\\ExpenseTracker.csproj",
         "projectName": "ExpenseTracker",
-        "projectPath": "C:\\Users\\Debbie Pham\\Documents\\Coding Dojo\\C-sharp\\ExpenseTracker\\ExpenseTracker.csproj",
+        "projectPath": "C:\\Users\\Debbie Pham\\Documents\\Coding Dojo\\Projects\\ExpenseTracker\\ExpenseTracker.csproj",
         "packagesPath": "C:\\Users\\Debbie Pham\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Debbie Pham\\Documents\\Coding Dojo\\C-sharp\\ExpenseTracker\\obj\\",
+        "outputPath": "C:\\Users\\Debbie Pham\\Documents\\Coding Dojo\\Projects\\ExpenseTracker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Debbie Pham\\AppData\\Roaming\\NuGet\\NuGet.Config"
